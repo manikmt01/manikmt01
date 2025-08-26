@@ -11,7 +11,7 @@
 </p>
 
 ---
-<a href=""><img src="https://i.ibb.co.com/JjhLMQ0b/manik-mt-cover.png" alt="manik-mt-cover" border="0"></a>
+<a href="" style="display:block;"  align="center"><img src="https://i.ibb.co.com/JjhLMQ0b/manik-mt-cover.png" alt="manik-mt-cover" border="0"></a>
 
 ### 🚀 About Me
 
