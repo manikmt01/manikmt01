@@ -12,7 +12,7 @@
 
 ---
 <p align="center">
-  <img src="https://i.ibb.co.com/twcdy0Pt/manik-mt-facebook-cover-image.png" alt="manik-mt-facebook-cover-image" border="0">
+ <img src="https://i.ibb.co.com/Ldc0SCXk/manik-mt-cover-image.webp" alt="manik-mt-cover-image" width="100%" border="0">
 </p>
 
 ### 🚀 About Me
