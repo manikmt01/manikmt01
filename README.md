@@ -7,10 +7,13 @@
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,wordpress,shopify,js,ts,html,css,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,wordpress,shopify,js,ts,html,css,figma" alt="Manik MT Tech Stack" />
 </p>
 
 ---
+<p align="center">
+  <img src="https://ibb.co.com/Kx1Z3wRQ" alt="Manik MT" />
+</p>
 
 ### 🚀 About Me
 
