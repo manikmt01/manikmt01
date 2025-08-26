@@ -12,8 +12,10 @@
 
 ---
 <p align="center">
- <img src="https://i.ibb.co.com/Ldc0SCXk/manik-mt-cover-image.webp" alt="manik-mt-cover-image" width="100%" border="0">
+ <img src="https://i.ibb.co.com/Ldc0SCXk/manik-mt-cover-image.webp" alt="manik-mt-cover-image" border="0">
 </p>
+
+---
 
 ### 🚀 About Me
 
