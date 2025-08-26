@@ -11,9 +11,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://ibb.co.com/Kx1Z3wRQ" alt="Manik MT" />
-</p>
+<a href="https://ibb.co.com/Kx1Z3wRQ"><img src="https://i.ibb.co.com/JjhLMQ0b/manik-mt-cover.png" alt="manik-mt-cover" border="0"></a>
 
 ### 🚀 About Me
 
