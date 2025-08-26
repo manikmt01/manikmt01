@@ -3,11 +3,11 @@
 <h1 align="center">Hi, I'm Manik MT 👋</h1>
 <h3 align="center">
   Full-Stack Web Developer & SEO Specialist<br>
-  React.js | Next.js | Tailwind CSS | Bootstrap | WordPress | Shopify | WooCommerce
+  React.js | Next.js | Tailwind CSS | Bootstrap | WordPress | WooCommerce
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,wordpress,shopify,js,ts,html,css,figma" alt="Manik MT Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,wordpress,shopify,js,ts,html,css,figma,xd" alt="Manik MT Tech Stack" />
 </p>
 
 ---
